@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kisoqual
+- 👀 I’m interested in coding fun
+- 🌱 I’m currently learning ...
