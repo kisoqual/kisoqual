@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kisoqual
+- 👋 Hi, I’m [Kisoqual](so.bang.cl)
 - 👀 I’m interested in coding fun
 - 🌱 I’m currently learning c pluses rn
