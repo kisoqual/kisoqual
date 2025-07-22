@@ -1,3 +1,3 @@
 - 👋 Hi, I’m [**Kisoqual**](https://so.bang.cl)
 - 👀 I’m interested in coding fun
-- 🌱 I’m currently learning [c pluses rn](https://github.com/kisoqual/tiemer) + i also will learn c# & many others soon
+- 🌱 I’m currently learning [c pluses](https://github.com/kisoqual/tiemer) & [c#](https://github.com/kisoqual/tiemer.NET) rn + i also will learn many other things soon
