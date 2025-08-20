@@ -1,3 +1,3 @@
 - 👋 Hi, I’m [**Kisoqual**](https://so.bang.cl)
 - 👀 I’m interested in coding fun
-- 🌱 I’m currently learning [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=19px align="center" title="c pluses">](https://github.com/kisoqual/tiemer) & [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width=17px align="center" title="c sharp">](https://github.com/kisoqual/tiemer.NET) rn + i also will learn many other things soon
+- 🌱 I’m currently learning [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=17px align="center" title="c pluses">](https://github.com/kisoqual/tiemer) & [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width=17px align="center" title="c sharp">](https://github.com/kisoqual/tiemer.NET) rn + i also will learn many other things soon
